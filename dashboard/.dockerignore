@@ -1,0 +1,10 @@
+.git/
+log/
+!log/.keep
+tmp/
+coverage/
+tags
+.bundle
+docker-compose.yml
+.idea/
+vendor/bundle/
